@@ -1,0 +1,6 @@
+// * Logo text
+// * button to create new todos
+// * status 4/10 todos completed
+// * search bar
+// * category filter (ALL,completed,in progres,archived)
+// * todo cards with 3 buttons (archive ,edit ,delete)
